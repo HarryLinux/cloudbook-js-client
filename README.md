@@ -1,5 +1,7 @@
 # JBook
 
+*Still in Development*
+
 This demo project is an interactive browser-based coding environment. 
 It's like a Jupyter Notebook, but for Javascript, with many additional features added in.
 
